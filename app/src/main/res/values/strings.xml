@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <!--    Titulos bootom bar-->
+    <string name="listas">Listas</string>
+    <string name="productos">Productos</string>
+    <string name="categorias">Categorias</string>
+    <string name="nombre">Nombre</string>
+    <string name="agregar_producto">Agregar producto</string>
+    <string name="escanear_codigo_de_barras">Escanear codigo de barras</string>
+    <string name="cargando_informacion">Cargando informacion</string>
+    <string name="soriana">Soriana</string>
+    <string name="amazon">Amazon</string>
+    <string name="search_code">Buscando código:</string>
+    <string name="walmart">Walmart</string>
+
+</resources>
